@@ -1,0 +1,82 @@
+.header1-header {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-oneandhalfunits);
+  justify-content: center;
+}
+.header1-container {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.header1-container1 {
+  margin: var(--dl-space-space-unit);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.header1-navlink {
+  color: var(--dl-color-primary-3000);
+  font-family: Inter;
+  border-width: 0px;
+  margin-right: var(--dl-space-space-unit);
+  text-decoration: none;
+  background-color: var(--dl-color-primary-5000);
+}
+.header1-navlink1 {
+  color: var(--dl-color-primary-3000);
+  font-family: Inter;
+  border-width: 0px;
+  margin-right: var(--dl-space-space-unit);
+  text-decoration: none;
+  background-color: var(--dl-color-primary-5000);
+}
+.header1-button {
+  color: var(--dl-color-primary-3000);
+  font-family: Inter;
+  border-width: 0px;
+  margin-right: var(--dl-space-space-unit);
+  background-color: var(--dl-color-primary-5000);
+}
+.header1-button1 {
+  color: var(--dl-color-primary-3000);
+  font-family: Inter;
+  border-width: 0px;
+  margin-right: var(--dl-space-space-unit);
+  background-color: var(--dl-color-primary-5000);
+}
+.header1-image {
+  top: 35px;
+  left: 75px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  object-fit: cover;
+  padding-top: 0.5 rem;
+  padding-left: 0.5 rem;
+  padding-right: 0.5 rem;
+  padding-bottom: 0.5 rem;
+}
+.header1-button2 {
+  color: var(--dl-color-gray-white);
+  right: 75px;
+  margin: var(--dl-space-space-oneandhalfunits);
+  position: absolute;
+  align-self: center;
+  text-align: center;
+  padding-top: var(--dl-space-space-unit);
+  border-width: 0px;
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: #2270e2;
+}
