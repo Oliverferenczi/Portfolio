@@ -1,0 +1,62 @@
+.component-container {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component-navlink {
+  color: #4d4d4d;
+  font-size: 18px;
+  align-self: flex-start;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 400;
+  padding-top: 0rem;
+  margin-right: var(--dl-space-space-unit);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 0.5rem;
+  text-decoration: none;
+}
+.component-navlink1 {
+  color: #4d4d4d;
+  font-size: 18px;
+  align-self: flex-start;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 400;
+  padding-top: 0rem;
+  margin-right: var(--dl-space-space-unit);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 0.5rem;
+  text-decoration: none;
+}
+.component-navlink2 {
+  color: #4d4d4d;
+  font-size: 18px;
+  align-self: flex-start;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 400;
+  padding-top: 0rem;
+  margin-right: var(--dl-space-space-unit);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 0.5rem;
+  text-decoration: none;
+}
+.component-navlink3 {
+  color: #4d4d4d;
+  font-size: 18px;
+  align-self: flex-start;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 400;
+  padding-top: 0rem;
+  margin-right: var(--dl-space-space-unit);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 0.5rem;
+  text-decoration: none;
+}
